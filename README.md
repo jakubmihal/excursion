@@ -2,7 +2,7 @@
 
 Codecademy project to practise HTML and CSS and GitHub pages.
 
-## Technoliges
+## Technologies
 
 Project is created with:
 * HTML
