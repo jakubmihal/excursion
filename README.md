@@ -1,6 +1,10 @@
 # excursion
-Codecademy project
+
+Codecademy project to practise HTML and CSS and GitHub pages.
 
 ## Technoliges
-*HTML
-*CSS
+
+Project is created with:
+* HTML
+* CSS
+* Git and GitHub
